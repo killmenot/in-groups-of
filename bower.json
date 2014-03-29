@@ -3,7 +3,7 @@
   "keywords": [],
   "description": "Return an array of arrays in groups of N",
   "homepage": "https://github.com/component/in-groups-of",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT"
 }
